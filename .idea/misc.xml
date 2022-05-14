@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BowWowNew/app/src/main/res/font/antic.xml" value="0.1" />
+        <entry key="..\:/BowWowNew/app/src/main/res/font/architects_daughter.xml" value="0.1" />
+        <entry key="..\:/BowWowNew/app/src/main/res/font/arimo_bold.xml" value="0.1" />
+        <entry key="..\:/BowWowNew/app/src/main/res/font/bree_serif.xml" value="0.1" />
+        <entry key="..\:/BowWowNew/app/src/main/res/font/bungee.xml" value="0.1" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_add_category.xml" value="0.2578125" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_add_payment.xml" value="0.2578125" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_add_product.xml" value="0.264" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_admin_login.xml" value="0.264" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_admin_reg.xml" value="0.264" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_all_payments.xml" value="0.2578125" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_all_products.xml" value="0.2578125" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_edit_category.xml" value="0.25364583333333335" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_edit_payment.xml" value="0.25364583333333335" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_edit_product.xml" value="0.264" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_registration.xml" value="0.1" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_splash_screen.xml" value="0.25364583333333335" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_successful_page.xml" value="0.25364583333333335" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_user_profile.xml" value="0.25364583333333335" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_user_view_categories.xml" value="0.25364583333333335" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_user_view_items.xml" value="0.25364583333333335" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/activity_verify_phone_no.xml" value="0.23958333333333334" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/botto_sheet_dialog.xml" value="0.25364583333333335" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.25364583333333335" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/bottom_sheet_dialog_payment.xml" value="0.25364583333333335" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/category_rv_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/payment_rv_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/product_rv_item.xml" value="0.13385416666666666" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/user_cat_bottom_sheet_dialog.xml" value="0.25364583333333335" />
+        <entry key="..\:/BowWowNew/app/src/main/res/layout/user_item_bottom_sheet_dialog.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Acer/Downloads/BowWowNew/app/src/main/res/drawable/custom_button_back.xml" value="0.163" />
+        <entry key="..\:/Users/Acer/Downloads/BowWowNew/app/src/main/res/layout/activity_add_product.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Downloads/BowWowNew/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/BowWowNew/app/src/main/res/layout/product_rv_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/BowWowNew/app/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

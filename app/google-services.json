@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360543930008",
+    "project_id": "bow-wow-new",
+    "storage_bucket": "bow-wow-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360543930008:android:e9698865237221545272ed",
+        "android_client_info": {
+          "package_name": "com.example.bowwownew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360543930008-3r4lv7q7df3dil8m2errco4dmmvcnj4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyQciyhVq15ns25pBEQdVYsKvxTamA6q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360543930008-3r4lv7q7df3dil8m2errco4dmmvcnj4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

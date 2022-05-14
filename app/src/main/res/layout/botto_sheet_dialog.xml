@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/blue_shade_1"
+    android:id= "@+id/idRLBSheet"
+    >
+
+    <TextView
+        android:id="@+id/idTVCategoryName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:padding="4dp"
+        android:text="Category Name"
+        android:textColor="@color/white"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@id/idTVCategory"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/idTVCategoryName"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="4dp"
+        android:padding="4dp"
+        android:src="@mipmap/ic_launcher" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Description"
+        android:id="@+id/idTVDescription"
+        android:textColor="@color/white"
+        android:layout_toRightOf="@id/idTVCategory"
+        android:layout_below="@+id/idTVCategoryName"
+        android:padding="3dp"
+        android:layout_margin="4dp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Date of the category Added"
+        android:id="@+id/idTVDate"
+        android:textColor="@color/white"
+        android:layout_toRightOf="@id/idTVCategory"
+        android:layout_below="@+id/idTVDescription"
+        android:padding="3dp"
+        android:layout_margin="4dp"
+        android:textStyle="bold"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:layout_below="@id/idTVCategory" >
+
+        <Button
+            android:layout_width="8dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="4dp"
+            android:text="Edit"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:id="@+id/idBtnEdit"
+            />
+
+
+
+        <Button
+            android:layout_width="8dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="4dp"
+            android:text="View Items"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:id="@+id/idBtnItems"
+            />
+
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>
