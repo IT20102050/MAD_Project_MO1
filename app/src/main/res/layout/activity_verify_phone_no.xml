@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".VerifyPhoneNo"
+    android:layout_margin="10dp"
     android:orientation="vertical">
     <RelativeLayout
         android:layout_width="match_parent"
@@ -16,7 +17,7 @@
             android:id="@+id/imageView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="55dp"
+            android:layout_marginLeft="80dp"
             android:layout_marginTop="20dp"
             android:transitionName="logo_image"
             app:srcCompat="@drawable/logo3" />

@@ -5,7 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".RegistrationActivity"
+    android:background="@drawable/background2"
     android:orientation="vertical"
+    android:layout_margin="10dp"
     android:padding="20dp">
 
     <LinearLayout
@@ -15,7 +17,7 @@
         <ImageView
             android:layout_width="105dp"
             android:layout_height="106dp"
-            app:srcCompat="@drawable/logo3"
+            app:srcCompat="@drawable/logo4"
             android:transitionName="logo_image"/>
 
         <TextView
@@ -123,9 +125,9 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
             android:layout_marginBottom="5dp"
-            android:backgroundTint="#ff8000"
+            android:backgroundTint="#000000"
             android:text="Sign In"
-            android:textColor="@color/black"/>
+            android:textColor="@color/white"/>
 
         <Button
             android:id="@+id/reg_login_btn"

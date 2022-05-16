@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/background2"
+    android:layout_margin="10dp"
     tools:context=".AddPaymentActivity">
 
     <RelativeLayout
@@ -92,7 +93,7 @@
                 android:layout_marginTop="10dp"
                 android:layout_marginStart="10dp"
                 android:layout_marginEnd="10dp"
-                android:hint="Enter Building Type"
+                android:hint="Enter Builling Type"
                 android:padding="5dp"
                 style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
 
